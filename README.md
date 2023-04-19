@@ -1,0 +1,3 @@
+<h1 align="center"> Control System Engineering Lab </h1>
+
+This GitHub repository contains my MATLAB exercise code for Control System Engineering Lab. It serves as a centralized location where I store all my experiment-wise code for various control system exercises. From classical to modern control techniques, this repository is a comprehensive resource for my lab work. Feel free to explore and utilize the code for your own reference or learning purposes. Join me on this journey of experimenting and exploring the world of control systems through MATLAB!
